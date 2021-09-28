@@ -1,14 +1,10 @@
-### Twitter-like social network website for making posts and following users.
 
----
-
-<br/>
-
-### A Project for Harvard's CS50 Web Programming
+## Twitter-like social network website for making posts and following users.
+ A Project for Harvard's CS50 Web Programming
 
 Youtube Link : https://youtu.be/Rw5Uhgpwsdg
 
-# Specifications:
+### Specifications:
 
 - Using Python, JavaScript, HTML, and CSS, complete the implementation of a social network that allows users to make posts, follow other users, and “like” posts. You must fulfill the following requirements:
 
